@@ -35,7 +35,7 @@ function Ingredientlookup() {
         <Container>
             <Row>
                 <Col className='header'>
-                    <h1>Daily Harvest</h1>
+                    <h1>Products & Ingredients</h1>
                 </Col>
             </Row>
             <Row>
